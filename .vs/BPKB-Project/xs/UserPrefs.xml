@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6134D689-8F8C-4B3C-9224-8CAC0E2C9444}|Default">
+  <MonoDevelop.Ide.ItemProperties.BPKB-Project PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BPKB-Project/Controllers/BPKBController.cs">
+    <Files>
+      <File FileName="BPKB-Project/Controllers/BPKBController.cs" Line="23" Column="30" />
+      <File FileName="BPKB-Project/Controllers/WeatherForecastController.cs" Line="17" Column="6" NotebookId="1" />
+      <File FileName="BPKB-Project/Models/BPKB.cs" Line="35" Column="23" NotebookId="1" />
+      <File FileName="BPKB-Project/Data/DataContext.cs" Line="22" Column="37" NotebookId="1" />
+      <File FileName="BPKB-Project/Program.cs" Line="12" Column="22" NotebookId="1" />
+      <File FileName="BPKB-Project/Services/BPKBService/IBPKBService.cs" Line="8" Column="24" NotebookId="1" />
+      <File FileName="BPKB-Project/Services/BPKBService/BPKBService.cs" Line="32" Column="28" NotebookId="1" />
+      <File FileName="BPKB-Project/Models/Location.cs" Line="17" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BPKB-Project" expanded="True">
+            <Node name="BPKB-Project" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BPKBController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="BPKBService" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
